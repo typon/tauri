@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.13.0]
+
+-   Adds a path resolution API (e.g. getting the download directory or resolving a path to the home directory).
+    -   [771e401](https://www.github.com/tauri-apps/tauri/commit/771e4019b8cfd1973015ffa632c9d6c6b82c5657) feat: Port path api to js ([#1006](https://www.github.com/tauri-apps/tauri/pull/1006)) on 2020-09-24
+
 ## [0.12.0]
 
 -   Break out TauriBuildConfig interface from TauriConfig build property
